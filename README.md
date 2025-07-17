@@ -53,4 +53,12 @@ This was my first comprehensive **Power BI report**, developed after creating mu
 
 The final report provides stakeholders with a robust foundation to explore customer behavior, evaluate category performance, and identify opportunities for business growth.
 
+## 🖼️ Report Snapshots
+
+![Home Page](https://github.com/Kritika-N-Khanna/Customer-Purchase-Behavior-Analysis-Report/blob/main/Home%20Page.png) 
+![Overview Page](https://github.com/Kritika-N-Khanna/Customer-Purchase-Behavior-Analysis-Report/blob/main/Overview%20Page.png)  
+![Performance Page](https://github.com/Kritika-N-Khanna/Customer-Purchase-Behavior-Analysis-Report/blob/main/Performance%20Page.png)  
+![Summary Page](https://github.com/Kritika-N-Khanna/Customer-Purchase-Behavior-Analysis-Report/blob/main/Summary%20Page.png)  
+
+
 
